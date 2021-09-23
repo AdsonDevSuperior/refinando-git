@@ -15,3 +15,7 @@ Os headers são marcados ocm o símbolo '#'. Os mesmos têm 6 níveis que são i
 ##### h5
 
 ###### h6
+
+Para escrever um paragrafo com destaque, utilizamos o simbolo >.
+
+>Esse é o simbolo pan
