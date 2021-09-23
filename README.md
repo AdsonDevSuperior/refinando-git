@@ -15,3 +15,5 @@ Os headers são marcados ocm o símbolo '#'. Os mesmos têm 6 níveis que são i
 ##### h5
 
 ###### h6
+
+Os negritos i itálicos * ou _
