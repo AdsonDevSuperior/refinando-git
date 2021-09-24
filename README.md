@@ -58,7 +58,6 @@ document.getElementById("teste");
 Para escrever um paragrafo com destaque, utilizamos o simbolo >.
 
 >Esse é o simbolo pan
-Os negritos i itálicos * ou _
 
 [08:15] Claudio Boldorini Júnior
 ## Listas não-ordenadas
@@ -70,4 +69,5 @@ Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no 
 1. linha 1
 2. linha 2
 3. linha 3
+
 
